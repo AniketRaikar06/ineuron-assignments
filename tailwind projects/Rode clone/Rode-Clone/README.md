@@ -2,6 +2,7 @@
 
 This is basically a clone of [Rode](https://rode.com/en) made purely in HTML5 and tailwind css a utility first css Framework
 Hope you like my project !!
+https://rode-clone1.vercel.app/
 
 ## 🛠 Technologies Used
   - HTML - Hyper Text Markup Language
