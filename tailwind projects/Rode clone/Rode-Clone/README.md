@@ -26,13 +26,7 @@ Go to the project directory
 ```bash
   cd Rode-Clone
 ```
-## ✍️ Author and 📞 Contact
-- [Akash Srinivasan](https://www.github.com/octokatherine)
-    - [Coder Community](https://web.codercommunity.io/user/62d568cb998d86c8883a2766?tab=posts)
-    - [![facebook](https://img.shields.io/badge/Facebook-0A66C2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100083429257499)
-    - [![instagram](https://img.shields.io/badge/Instagram-0A66C2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/akash_prashanthi/)
-    - [![youtube](https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCAv1QdzDgV6MjA60CRtfkIg)
-    - [Find Coder](https://www.findcoder.io/u/akashsrinivasan)
+
 ## 📝 Features
 
 - Royalty Free Images used
