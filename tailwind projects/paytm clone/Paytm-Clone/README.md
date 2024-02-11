@@ -11,13 +11,7 @@ Hope you like my project !! I had fixed some bugs in it too !!
 
 https://user-images.githubusercontent.com/108281031/185414120-ef0f1ad9-eb65-41bc-bc3c-5d655fd68d75.mp4
 
-## Run Locally
 
-Clone the project
-
-```bash
-  git clone https://github.com/Srinivasan-Akash/Visual-Designer-Portfolio.git
-```
 
 Go to the project directory
 
@@ -41,5 +35,4 @@ Go to the project directory
 ## 😌 Honest Time to finish the project
 
 I had took about 4-5 hrs
-## 👀 Feedback
-If you have any feedback, please reach out to us at qa.sixsigma@gmail.com
+

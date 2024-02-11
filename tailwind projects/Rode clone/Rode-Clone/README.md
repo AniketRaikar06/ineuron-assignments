@@ -13,19 +13,8 @@ Hope you like my project !!
 https://user-images.githubusercontent.com/108281031/185418279-baae0604-0689-453e-9b1f-1f221f34c683.mp4
 
 
-## Run Locally
 
-Clone the project
 
-```bash
-  git clone https://github.com/Srinivasan-Akash/Rode-Clone.git
-```
-
-Go to the project directory
-
-```bash
-  cd Rode-Clone
-```
 
 ## 📝 Features
 
@@ -41,5 +30,3 @@ Go to the project directory
 ## 😌 Honest Time to finish the project
 
 I had took about 3hrs 43min.
-## 👀 Feedback
-If you have any feedback, please reach out to us at qa.sixsigma@gmail.com
